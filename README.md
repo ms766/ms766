@@ -6,7 +6,9 @@
 I am **Mohamed** a 🧑🏻‍💻 **Software Engineer** from the **New York metropolitan area**.<br>
 **CS Graduate** 🎓 of the **New Jersey Institute of Technology**.
 
-My **expertise** includes **Web development** using javaScript/React/TypeScript/Python/Flask/SQL/HTML/CSS, **Graphical user interface development** using python, **command line** applications using Bash/Python/Go, and **web scraping** using Python/Beautifulsoup/Selenium. Note that I am also experienced in Java and C as well.
+My core **expertise** includes **Web development** using javaScript/React/TypeScript/Python/Flask/SQL/HTML/CSS, **Graphical user interface development** using python, **command line** applications using Bash/Python/Go, and **web scraping** using Python/Beautifulsoup/Selenium. <br><br>
+**Note** that I am also experienced in Java and C as well the following tools: postman and git.
+
 
 **Interests**: Design, innovation, puzzles, and stories <br>
 
