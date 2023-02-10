@@ -4,10 +4,11 @@
 
 
 I am **Mohamed** a 🧑🏻‍💻 **Software Engineer** from the **New York metropolitan area**.<br>
-**CS Graduate** 🎓 of the **New Jersey Institute of Technology**.<br>
-Interests: Design, innovation, puzzles, and stories <br> <br>
-  
+**CS Graduate** 🎓 of the **New Jersey Institute of Technology**.
 
+My **expertise** includes **Web development** using javaScript/React/TypeScript/Python/Flask/SQL/HTML/CSS, **Graphical user interface development** using python, **command line** applications using Bash/Python/Go, and **web scraping** using Python/Beautifulsoup/Selenium. Note that I am also experienced in Java and C as well.
+
+**Interests**: Design, innovation, puzzles, and stories <br>
 
 For instance, while curiosity may have killed the cat, it has yet to kill me. And I often find myself wondering about design choices. For example, why are there two "google meets" applications on the google play store that look alike yet serve two different purposes? Additionally, why would such a large company not just combine the two applications into a single app or even just innovate something new that’s even better? Hmmm, I wonder, and, in such wonderment, I often find my mood improving as I challenge myself to come up with new solutions to various puzzles. Thus, writing my own stories as journey towards bring my thought and emotions to life.
 
