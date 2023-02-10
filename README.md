@@ -3,7 +3,7 @@
 # <img src="https://user-images.githubusercontent.com/36449190/217968913-a69b74e5-dbc8-4d06-ab52-e497a796635c.png" width="28"> About Me
 
 
-I am **Mohamed**, a 🧑🏻‍💻 **Software Engineer** from the **New York metropolitan area**.<br>
+Hi, i'm **Mohamed**, a 🧑🏻‍💻 **Software Engineer** from the **New York metropolitan area**.<br>
 **CS Graduate** 🎓 of the **New Jersey Institute of Technology**.
 
 My core **expertise** includes **Web development** using javaScript/React/TypeScript/Python/Flask/SQL/HTML/CSS, **Graphical user interface development** using python, **command line** applications using Bash/Python/Go, and **web scraping** using Python/Beautifulsoup/Selenium. <br><br>
